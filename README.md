@@ -33,7 +33,7 @@
 |---------|----------|-------------|
 | 🧮 [Calculator](https://github.com/muhammad-mohsin12345/Calculator-Project) | Python | Simple calculator with basic operations |
 | 📁 [First Project](https://github.com/muhammad-mohsin12345/mera-pehla-project) | HTML | My very first GitHub project |
-| 🏦 [Bank System]...Java | Complete banking system with deposit/withdraw |
+| 🏦 [Bank System](https://github.com/muhammad-mohsin12345/Bank-System) | Java | Complete banking system with deposit/withdraw |
 ---
 
 ### 📊 GitHub Stats
