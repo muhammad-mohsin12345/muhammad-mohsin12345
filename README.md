@@ -24,8 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-| 🏦 [Bank System](https://github.com/muhammad-mohsin12345/Bank-System) | Java | Complete banking system with deposit/withdraw |
-
+ 
 ---
 
 ### 📂 My Projects
@@ -34,7 +33,7 @@
 |---------|----------|-------------|
 | 🧮 [Calculator](https://github.com/muhammad-mohsin12345/Calculator-Project) | Python | Simple calculator with basic operations |
 | 📁 [First Project](https://github.com/muhammad-mohsin12345/mera-pehla-project) | HTML | My very first GitHub project |
-
+| 🏦 [Bank System]...Java | Complete banking system with deposit/withdraw |
 ---
 
 ### 📊 GitHub Stats
